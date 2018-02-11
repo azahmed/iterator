@@ -1,13 +1,13 @@
-package com.azahmed.afl.iterator.iterator;
+package com.azahmed.iterator.iterator;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.azahmed.afl.iterator.rules.DivisionBy3;
-import com.azahmed.afl.iterator.rules.DivisionBy3And5;
-import com.azahmed.afl.iterator.rules.DivisionBy5;
-import com.azahmed.afl.iterator.rules.IteratorRule;
+import com.azahmed.iterator.rules.DivisionBy3;
+import com.azahmed.iterator.rules.DivisionBy3And5;
+import com.azahmed.iterator.rules.DivisionBy5;
+import com.azahmed.iterator.rules.IteratorRule;
 
 public class IteratorRunner {
 

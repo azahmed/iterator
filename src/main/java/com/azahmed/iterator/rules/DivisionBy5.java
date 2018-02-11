@@ -1,6 +1,6 @@
-package com.azahmed.afl.iterator.rules;
+package com.azahmed.iterator.rules;
 
-import static com.azahmed.afl.iterator.iterator.IteratorRunner.FIVE;
+import static com.azahmed.iterator.iterator.IteratorRunner.FIVE;
 
 /**
  * 

@@ -1,10 +1,13 @@
-package com.azahmed.afl.iterator.rules;
+package com.azahmed.iterator.rules;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import com.azahmed.iterator.rules.DivisionBy5;
+import com.azahmed.iterator.rules.IteratorRule;
 
 public class DivisionBy5Test {
 IteratorRule unitUnderTest; 

@@ -1,4 +1,4 @@
-package com.azahmed.afl.iterator.rules;
+package com.azahmed.iterator.rules;
 
 /**
  * Apply a rule, display a message.
